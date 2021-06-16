@@ -2,8 +2,9 @@ class config:
     BOT_TOKEN = "1809243565:AAFCkuA_F68FEWZlAEUJ9BocFy-w3V9nauc"
     APP_ID = "4203842"
     API_HASH = "84fd5643640d6b1e2063d6b6ccf21f8b"
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    DATABASE_URL = "postgres://ckcbynwwqbliew:50c3043a94fa19cb0c70af05deaccdec33595ff5d380ac4a0bb0f6a3c5fbbf8b@ec2-3-89-0-52.compute-1.amazonaws.com:5432/d1m6r91g4g85lh"
+    SUDO_USERS = "1160089400" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "@K_DramasHindi_bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
