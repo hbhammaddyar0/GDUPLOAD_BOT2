@@ -4,10 +4,10 @@ class config:
     API_HASH = "84fd5643640d6b1e2063d6b6ccf21f8b"
     DATABASE_URL = "postgres://ckcbynwwqbliew:50c3043a94fa19cb0c70af05deaccdec33595ff5d380ac4a0bb0f6a3c5fbbf8b@ec2-3-89-0-52.compute-1.amazonaws.com:5432/d1m6r91g4g85lh"
     SUDO_USERS = "1160089400" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "@K_DramasHindi_bot"
+    SUPPORT_CHAT_LINK = "https://t.me/K_DramasHindi_bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "268401913690-36t7khosdkfn8in7d4pm9o2lgf63nb3s.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "rIYx8uGiRJFr9ccOBywElJcF"
 
 
 class BotCommands:
